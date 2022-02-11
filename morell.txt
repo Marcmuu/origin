@@ -1,1 +1,2 @@
 Hola que tal? Aquest fitxer es la primera prova.
+Estem afegint linies al primer document que ja haviem fet commmit.
